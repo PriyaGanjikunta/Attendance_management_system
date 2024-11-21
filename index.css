@@ -1,0 +1,173 @@
+@charset "ISO-8859-1";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+	background: url("att3.webp");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav-con {
+	display: flex;
+	justify-content: space-around;
+	font-size: 24px;
+	background-color: black;
+	padding:15px;
+}
+
+.heading1 {
+	text-align: center;
+	font-size: 50px;
+	color: rgb(255, 255, 255);
+	text-shadow:10px 10px rgb(0, 0, 0);
+	margin-top: 40px;
+	font-family: sans-serif;
+
+  
+}
+
+.l-con{
+	display:flex;
+	justify-content:center;
+	
+}
+
+.s-con1{
+	display:flex;
+	flex-direction:column;
+	font-size:25px;	
+	padding:150px;
+}
+.s-con2{
+	display:flex;
+	flex-direction:column;
+	font-size:25px;
+	padding:150px;	
+}
+
+.imag1{
+	height:130px;
+}
+.an1{
+	display:inline-block;
+	margin-left:20px;
+}
+.hd1{
+		color:white;
+		text-decoration:underline;
+		margin-top:30px;
+		margin-left:100px;
+	}
+
+.an2{
+	display:inline-block;
+	text-decoration:none;
+	color:rgb(245, 186, 222);
+	margin-top:60px;
+	font-size:35px;
+	margin-left:140px;
+	
+}
+.hd2{
+	margin-top:20px;
+	color:white;
+	margin-left:30px;
+	text-decoration:underline;
+	font-size:40px;
+}
+
+.l1{
+	display:inline-block;
+	color:white;
+	margin-left:200px;
+	font-size:30px;
+	margin-top:10px;
+}
+#s-name{
+	display:inline-block;
+	color:black;
+	margin-left:200px;
+	height:40px;
+}
+input{
+	border-radius:10px;
+	padding:5px;
+	width:350px;
+	font-size:16px;
+}
+.b1{
+	margin-left:200px;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	height:45px;
+	padding:5px;
+	margin-top:15px;
+}
+.tab1{
+	color:aqua;
+	font-size:30px;
+	border:thick;
+	margin-top:30px;
+	margin-left:30px;
+}
+.tab2{
+	color:white;
+	font-size:30px;
+}
+th{
+	padding:25px;
+}
+td{
+	padding:5px;
+}
+.anchDis{
+	display:inline-block;
+	text-decoration:underline;
+	margin-left:30px;
+	margin-top:20px;
+	font-size:25px;
+}
+.ab{
+	padding:10px;
+	width:85%;
+	margin-left:120px;
+	margin-top:30px;
+}
+.ab1{
+	color:aqua;
+	font-size:35px;
+	text-decoration: underline;
+}
+.ab2{
+	color:white;
+	font-size:23px;
+	font-family:monospace;
+	line-height: 1.5;
+}
+.ul1{
+	font-size:23px;
+	color:white;
+	font-family:monospace;
+	line-height: 1.5;
+}
+
+
+
+
+
+
+
+
+
+
